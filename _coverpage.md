@@ -8,5 +8,5 @@
 * 高效代码 轻量工具
 * 钻石品质线路
 
-[访问网站](https://issacc.top ':target=_blank')
+[访问网站](https://issacc.bid ':target=_blank')
 [开始使用](快速开始)
